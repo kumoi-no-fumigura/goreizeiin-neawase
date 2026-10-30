@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/goreizeiin-neawase",
  "yomi": "ごれいぜいいんねあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（根合）",
+  "era": "永承6年（1051）5月5日",
+  "author": "主催 後冷泉天皇",
+  "desc": "後冷泉天皇の内裏で、菖蒲の根の長さを競い、あわせて歌を詠んだ根合。弓や鶏合で勝負がつかなかったため催されたと記す。早苗・恋・祝などの題で、相模らが詠み、仮名の記録を伴う。"
+ },
  "editions": [
   {
    "pid": "1879502",
